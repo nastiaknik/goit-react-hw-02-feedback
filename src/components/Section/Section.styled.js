@@ -1,12 +1,11 @@
 import styled from 'styled-components';
 
 export const Container = styled.section`
-  padding: 20px;
+  padding: 15px;
 `;
 
 export const Title = styled.h2`
-  margin-top: 0;
-  margin-bottom: 25px;
+  margin: 0 auto 25px;
   font-size: 30px;
   font-weight: 600;
 `;
